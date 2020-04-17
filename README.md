@@ -7,3 +7,8 @@ Additionally; some part of my career was designated to developing simulated envi
 During my carrier I evolved from C-based solutions on HP-UX, to stand alone Java GUI client, to **Java-based Service Oriented Architecture** solutions deployed in containers like **Tomcat** and WebLogic running on Solaris and Linux.
 
 In the last four years I got involved in the design, implementation and automated testing of the network management solution made up of micro-services deployed in **Docker** containers.
+
+
+<p style='text-align:center;'>
+    <img src="ola.png" />
+</p>
