@@ -1,5 +1,7 @@
 # About
 
+<a href="ResumeKrystianWojcicki.pdf" class="btn">Download Resume</a>
+
 For more than 20 years I contributed to the **design**, implementation and testing
 of various complex software systems (mostly in **telecommunication** space).
 I also worked on **installation** and **upgrade solutions** for network managing systems from one centralized location (so called one-push-button approach).
