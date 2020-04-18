@@ -1,6 +1,6 @@
 # About
 
-<a href="ResumeKrystianWojcicki.pdf">Download Resume</a>
+<a href="TechnicalResumeOla.pdf">Download Resume</a>
 
 For more than 20 years I contributed to the **design**, implementation and testing
 of various complex software systems (mostly in **telecommunication** space).
@@ -9,8 +9,9 @@ Additionally; some part of my career was designated to developing simulated envi
 During my carrier I evolved from C-based solutions on HP-UX, to stand alone Java GUI client, to **Java-based Service Oriented Architecture** solutions deployed in containers like **Tomcat** and WebLogic running on Solaris and Linux.
 
 In the last four years I got involved in the design, implementation and automated testing of the network management solution made up of **micro-services** deployed in **Docker** containers.
+
 I am an energetic person with excellent interpersonal skills working very well with international teams.
 
 <p style='text-align:center;'>
-    <img src="TechnicalResumeOla.png" />
+    <img src="ola.png" />
 </p>
