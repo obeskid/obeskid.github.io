@@ -8,8 +8,9 @@ I also worked on **installation** and **upgrade solutions** for network managing
 Additionally; some part of my career was designated to developing simulated environment for the **Big System Testing** focusing on systems managing devices operating with interfaces such as **CLI/TL1** and FTP/SFTP based on **Telnet/SSH**.
 During my carrier I evolved from C-based solutions on HP-UX, to stand alone Java GUI client, to **Java-based Service Oriented Architecture** solutions deployed in containers like **Tomcat** and WebLogic running on Solaris and Linux.
 
-In the last four years I got involved in the design, implementation and automated testing of the network management solution made up of micro-services deployed in **Docker** containers.
+In the last four years I got involved in the design, implementation and automated testing of the network management solution made up of **micro-services** deployed in **Docker** containers.
+I am an energetic person with excellent interpersonal skills working very well with international teams.
 
 <p style='text-align:center;'>
-    <img src="ola.png" />
+    <img src="TechnicalResumeOla.png" />
 </p>
